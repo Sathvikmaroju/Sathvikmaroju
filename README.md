@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sathvikmaroju
-- 👀 I’m interested in everything upto a certain point 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on any research
+- 🌱 I’m currently learning a lot of the latest tech stacks
+- ⚡ Fun fact: I love to experiment 
+<!--- 💞️ I’m looking to collaborate on any research---!>
 - 📫 How to reach me ...
 
 <!---
