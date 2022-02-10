@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathvikmaroju&label=Profile%20views&color=0e75b6&style=flat" alt="sathvikmaroju" /> </p>
 
-- 🌱 I’m currently learning **Excel**
+- 🌱 I’m currently learning **Machine Learning**
 
 - ⚡ Fun fact **I love to experiment!**
 
